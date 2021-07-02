@@ -1,9 +1,9 @@
 # input the value
-value1 = input("Input a subject ")
-value2 = input("Input a first month ")
-value3 = input("Input a value of first month ")
-value4 = input("Input a second month ")
-value5 = input("Input a value of second month ")
+value1 = input()
+value2 = input()
+value3 = input()
+value4 = input()
+value5 = input()
 
 # caculate the difference between value3 and value5
 trend = int(value5) - int(value3)
