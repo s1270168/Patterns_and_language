@@ -155,8 +155,8 @@ for diff_i in range(5):
 for magnitudes_i in range(5):
     magnitudes[magnitudes_i] = diffs[magnitudes_i] / values[magnitudes_i] * 100
 
-str_up = ["rose", "go up", "climbed", "increased"]
-str_down = ["dropped", "go down", "fell", "decreased"]
+str_up = ["rose", "went up", "climbed", "increased"]
+str_down = ["dropped", "went down", "fell", "decreased"]
 str_magnitudes = ["slightly", "moderately", "considerably", "extremely"]
 
 a = 0
